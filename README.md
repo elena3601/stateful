@@ -1,4 +1,4 @@
-# stateless_app
+# stateful_app
 
 # Objetivo de la practica
 
